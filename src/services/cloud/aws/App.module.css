@@ -1,0 +1,45 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .animated-background {
+    background: linear-gradient(45deg, #ff9a9e, #fad0c4, #fad0c4);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+    border-radius: 15px;
+    margin: 20px 0;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  @keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  .service-card {
+    background: linear-gradient(145deg, #6e48aa, #9d50bb);
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .service-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .service-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .service-description {
+    font-size: 16px;
+  }
+  

@@ -1,0 +1,24 @@
+.gloweffect {
+    box-shadow:
+        0 0 50px rgba(0, 0, 255, 0.462),
+        /* Outer Magenta */
+        0 0 10px rgba(0, 25, 185, 0.435),
+        /* Inner Blue */
+        0 0 20px rgba(111, 0, 255, 0.5),
+        /* Medium Cyan */
+        0 0 60px rgba(187, 0, 255, 0.661);
+    /* Extra Outer Green */
+}
+
+.noglow{
+    box-shadow: none;
+
+}
+
+*{
+    padding: 1000;
+}
+
+.yo{
+    font-size: 1000px;
+}

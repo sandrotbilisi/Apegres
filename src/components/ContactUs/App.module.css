@@ -1,0 +1,11 @@
+.gapp{
+    gap: 30px;
+}
+
+.padding{
+    padding: 20px;
+}
+
+.maxWidth{
+    max-width: 60%;
+}

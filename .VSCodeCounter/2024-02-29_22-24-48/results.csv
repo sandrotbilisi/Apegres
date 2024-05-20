@@ -1,0 +1,59 @@
+"filename", "language", "CSS", "JavaScript JSX", "XML", "JavaScript", "JSON", "Markdown", "HTML", "comment", "blank", "total"
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/.eslintrc.cjs", "JavaScript", 0, 0, 0, 21, 0, 0, 0, 0, 1, 22
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/README.md", "Markdown", 0, 0, 0, 0, 0, 5, 0, 0, 4, 9
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/index.html", "HTML", 0, 0, 0, 0, 0, 0, 16, 0, 3, 19
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/package-lock.json", "JSON", 0, 0, 0, 0, 5971, 0, 0, 0, 1, 5972
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/package.json", "JSON", 0, 0, 0, 0, 41, 0, 0, 0, 1, 42
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/postcss.config.js", "JavaScript", 0, 0, 0, 6, 0, 0, 0, 0, 1, 7
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/public/vite.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/App.css", "CSS", 38, 0, 0, 0, 0, 0, 0, 0, 8, 46
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/App.jsx", "JavaScript JSX", 0, 64, 0, 0, 0, 0, 0, 3, 9, 76
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/assets/logo/Apegres-logo-white.svg", "XML", 0, 0, 9, 0, 0, 0, 0, 0, 0, 9
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/assets/logo/logo.svg", "XML", 0, 0, 81, 0, 0, 0, 0, 0, 2, 83
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/assets/photos/jwt-icon.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/assets/react.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/AboutPage/page.jsx", "JavaScript JSX", 0, 50, 0, 0, 0, 0, 0, 0, 11, 61
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/ContactUs/App.module.css", "CSS", 9, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/ContactUs/page.jsx", "JavaScript JSX", 0, 85, 0, 0, 0, 0, 0, 0, 8, 93
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/Footer/page.jsx", "JavaScript JSX", 0, 34, 0, 0, 0, 0, 0, 1, 3, 38
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/HomePage/page.jsx", "JavaScript JSX", 0, 45, 0, 0, 0, 0, 0, 1, 8, 54
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/IntroVideo.jsx", "JavaScript JSX", 0, 19, 0, 0, 0, 0, 0, 0, 5, 24
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/Navbar.css", "CSS", 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/Navbar.jsx", "JavaScript JSX", 0, 90, 0, 0, 0, 0, 0, 21, 9, 120
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/education/backend/page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/education/blockchain/page.jsx", "JavaScript JSX", 0, 26, 0, 0, 0, 0, 0, 2, 4, 32
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/education/ml/page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/components/smoothTransition/PageTransition.jsx", "JavaScript JSX", 0, 33, 0, 0, 0, 0, 0, 1, 6, 40
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/icons/icon.jsx", "JavaScript JSX", 0, 4, 0, 0, 0, 0, 0, 1, 4, 9
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/index.css", "CSS", 6, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/main.jsx", "JavaScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 3, 12
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/ArchitectureDesign/page.jsx", "JavaScript JSX", 0, 39, 0, 0, 0, 0, 0, 0, 6, 45
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/backend/API/App.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/backend/API/page.jsx", "JavaScript JSX", 0, 64, 0, 0, 0, 0, 0, 2, 12, 78
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/backend/library-development/App.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/backend/library-development/page.jsx", "JavaScript JSX", 0, 55, 0, 0, 0, 0, 0, 0, 8, 63
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/backend/security-solutions/app.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/backend/security-solutions/page.jsx", "JavaScript JSX", 0, 46, 0, 0, 0, 0, 0, 2, 7, 55
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/DeFi/App.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/DeFi/page.jsx", "JavaScript JSX", 0, 50, 0, 0, 0, 0, 0, 0, 8, 58
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/blockchain-integration/App.module.css", "CSS", 16, 0, 0, 0, 0, 0, 0, 4, 4, 24
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/blockchain-integration/page.jsx", "JavaScript JSX", 0, 93, 0, 0, 0, 0, 0, 2, 13, 108
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/blockchain-security/App.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/blockchain-security/page.jsx", "JavaScript JSX", 0, 46, 0, 0, 0, 0, 0, 0, 7, 53
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/decentralizedIdentity/app.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/decentralizedIdentity/page.jsx", "JavaScript JSX", 0, 48, 0, 0, 0, 0, 0, 1, 6, 55
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/smart-contract/App.module.css", "CSS", 7, 0, 0, 0, 0, 0, 0, 4, 0, 11
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/smart-contract/page.jsx", "JavaScript JSX", 0, 59, 0, 0, 0, 0, 0, 1, 11, 71
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/blockchain/token-development/page.jsx", "JavaScript JSX", 0, 45, 0, 0, 0, 0, 0, 1, 7, 53
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/cloud/aws/App.module.css", "CSS", 38, 0, 0, 0, 0, 0, 0, 0, 7, 45
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/cloud/aws/page.jsx", "JavaScript JSX", 0, 49, 0, 0, 0, 0, 0, 0, 9, 58
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/cryptography/FHE/App.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/cryptography/FHE/page.jsx", "JavaScript JSX", 0, 53, 0, 0, 0, 0, 0, 1, 7, 61
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/cryptography/RSA/App.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/cryptography/RSA/page.jsx", "JavaScript JSX", 0, 72, 0, 0, 0, 0, 0, 8, 11, 91
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/cryptography/ZKP/App.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/cryptography/ZKP/page.jsx", "JavaScript JSX", 0, 54, 0, 0, 0, 0, 0, 5, 9, 68
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/src/services/page.jsx", "JavaScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/tailwind.config.js", "JavaScript", 0, 0, 0, 9, 0, 0, 0, 0, 1, 10
+"/Users/aleksandretsetskhladze/Desktop/Apegres/Apegres/vite.config.js", "JavaScript", 0, 0, 0, 5, 0, 0, 0, 1, 2, 8
+"Total", "-", 125, 1238, 93, 41, 6012, 5, 16, 62, 246, 7838

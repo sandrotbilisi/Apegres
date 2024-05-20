@@ -1,0 +1,11 @@
+.gloweffect {
+    box-shadow:
+        0 0 50px rgba(255, 0, 255, 0.665),
+        /* Outer Magenta */
+        0 0 10px rgba(255, 255, 0, 0.7),
+        /* Inner Blue */
+        0 0 20px rgba(0, 166, 255, 0.5),
+        /* Medium Cyan */
+        0 0 60px rgba(255, 242, 0, 0.825);
+    /* Extra Outer Green */
+}
